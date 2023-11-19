@@ -72,7 +72,7 @@ Außerdem wird er darüber informiert, dass eine Änderung der Buchung (Stornier
 bis 14 Tage vor bisherigem Buchungsdatum möglich ist.
 
 
-3. Buchungsverwaltung (Buchungsverwaltung.php)
+3. Buchungsverwaltung (Buchungsverwaltung.php) Hinweis: Die Seiten Buchungsverwaltung.php, Buchungsverwaltung2.php und Buchungsverwaltung3.php sind nicht öffnetlich in diesem Profil verfügbar
 
 AUf der Seite Buchungsverwaltung.php gibt es vor einem Baumwipfel-Hintergrund zwei Input-Felder, in 
 die der Nutzer die E-Mail Adresse und Buchungsnummer die einer bereits getätigten Buchung zugehören 
