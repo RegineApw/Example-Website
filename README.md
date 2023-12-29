@@ -73,7 +73,6 @@ bis 14 Tage vor bisherigem Buchungsdatum möglich ist.
 
 
 3. Buchungsverwaltung (Buchungsverwaltung.php)
-[Hinweis: Die Seiten Buchungsverwaltung.php, Buchungsverwaltung2.php und Buchungsverwaltung3.php sind nicht öffnetlich in diesem Profil verfügbar]
 
 AUf der Seite Buchungsverwaltung.php gibt es vor einem Baumwipfel-Hintergrund zwei Input-Felder, in 
 die der Nutzer die E-Mail Adresse und Buchungsnummer die einer bereits getätigten Buchung zugehören 
@@ -124,7 +123,6 @@ aktualisierte Preis angezeigt wird
 Der Nutzer verlässt den privaten Bereich und wird wieder auf die Startseite geleitet.
 
 4. Events (Events.php)
-[Hinweis: Die Seite Events.php ist nicht öffnetlich in diesem Profil verfügbar]
 
 Die Event Seite zeigt im Vordergund das Bild eines Papyrus, auf dem die wöchentlich stattfindenden Events aufgelistet sind.
 Im Hintergrund wird das Video eines lodernden Lagerfeuers automatisch abgespielt.
